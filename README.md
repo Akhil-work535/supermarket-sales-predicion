@@ -1,6 +1,7 @@
 
 
 #  Supermarket Sales Analysis
+This project focuses on predicting daily sales for a supermarket based on historical sales data, store information, and promotional activities. By applying machine learning models, it identifies patterns and key factors influencing sales, helping the supermarket optimize inventory, plan promotions effectively, and maximize revenue.
 
 ##  Business Problem
 Supermarkets need to understand which factors drive sales and profitability across branches.  
